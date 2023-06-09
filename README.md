@@ -4,7 +4,7 @@ This repository contains the code for the CVPR 2023 paper titled ["Make-A-Story:
 
 # Acknowledgment
 
-This repository is developed on top of [Latent Diffusion Models]([https://github.com/CompVis/latent-diffusion]). Please also refer to the original License of the project.
+This repository is developed on top of [Latent Diffusion Models](https://github.com/CompVis/latent-diffusion). Please also refer to the original License of the project.
 
 # Bibtext
 
