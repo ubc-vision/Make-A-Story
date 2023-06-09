@@ -4,7 +4,8 @@ This repository contains the code for the CVPR 2023 paper titled ["Make-A-Story:
 
 # Extended dataset
 
-We extend existing datasets (e.g. ["Mugen"](https://arxiv.org/pdf/2204.08058.pdf), ["FlintstonesSV"](https://arxiv.org/pdf/1804.03608.pdf) and ["PororoSV"](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_StoryGAN_A_Sequential_Conditional_GAN_for_Story_Visualization_CVPR_2019_paper.pdf) dataset). 
+We extend existing datasets (e.g. ["Mugen"](https://arxiv.org/pdf/2204.08058.pdf), ["FlintstonesSV"](https://arxiv.org/pdf/1804.03608.pdf) and ["PororoSV"](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_StoryGAN_A_Sequential_Conditional_GAN_for_Story_Visualization_CVPR_2019_paper.pdf) dataset) to include more
+complex scenarios and referential text. 
 
 
 # Acknowledgment
