@@ -2,7 +2,9 @@
 
 This repository contains the code for the CVPR 2023 paper titled ["Make-A-Story: Visual Memory Conditioned Consistent Story Generation"](https://arxiv.org/pdf/2211.13319.pdf).
 
+# Acknowledgment
 
+This repository is developed on top of [Latent Diffusion Models]([https://github.com/jiasenlu/vilbert_beta](https://github.com/CompVis/latent-diffusion)). Please also refer to the original License of the project.
 
 # Bibtext
 
